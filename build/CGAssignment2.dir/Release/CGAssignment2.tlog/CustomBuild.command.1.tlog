@@ -1,0 +1,10 @@
+^D:\VISUAL STUDIO PROJECT\CGASSIGNMENT2\CMAKELISTS.TXT
+setlocal
+"E:\Program Files (x86)\CMake\bin\cmake.exe" "-SD:/visual studio project/CGAssignment2" "-BD:/visual studio project/CGAssignment2/build" --check-stamp-file "D:/visual studio project/CGAssignment2/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

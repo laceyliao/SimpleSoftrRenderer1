@@ -29,8 +29,8 @@ left: without back face culling.                                                
 ## Triangle filling based on Edge-function with 4xMSAA
 <img src="images/rasterizeMSAA.PNG" width=45%>
 
-## Results
+## Result
 <img src="images/rasterizationMSAA.gif" width=60%>
 
-## Acknowledgements
+## Acknowledgement
 The framework is derived from ZeusYang's [TinySoftRenderer](https://github.com/ZeusYang/TinySoftRenderer/tree/master).

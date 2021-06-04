@@ -22,7 +22,7 @@ std::vector<TRShaderPipeline::VertexData> TRRenderer::cliping(
 ```
 
 ## Back Face Culling
-before:                                            after:
+left: without back face culling.                                              after: apply back face culling.
 
 <img src="images/noculledfaces.PNG" width=45%>  <img src="images/culledfaces.PNG" width=45%>  
 

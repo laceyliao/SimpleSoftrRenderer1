@@ -26,7 +26,7 @@ left: without back face culling.                                                
 
 <img src="images/noculledfaces.PNG" width=45%>  <img src="images/culledfaces.PNG" width=45%>  
 
-## Triangle filling based on Edge-function with 4xMSAA
+## Triangle  rasterization based on Edge-function with 4xMSAA
 <img src="images/rasterizeMSAA.PNG" width=45%>
 
 ## Result

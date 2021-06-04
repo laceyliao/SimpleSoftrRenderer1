@@ -2,7 +2,7 @@
 A tiny soft-renderer built from an existing  framework using C++ 11
 
 ## Bresenham
-<img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/images/Bresenham.png" width=45%>
+<img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/images/Bresenham.PNG" width=45%>
 
 ## Homogeneous Space Clipping
 [reference](https://zhuanlan.zhihu.com/p/162190576)
@@ -23,10 +23,12 @@ std::vector<TRShaderPipeline::VertexData> TRRenderer::cliping(
 
 ## Back Face Culling
 before:                                                                         after:
-<img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/images/noculledfaces.png" width=45%>  <img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/images/culledfaces.png" width=45%>  
+<img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/images/noculledfaces.PNG" width=45%>  <img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/images/culledfaces.PNG" width=45%>  
 
 ## Triangle filling based on Edge-function with 4$\times$MSAA
-<img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/imagesrasterizeMSAA.png" width=45%>
+<img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/imagesrasterizeMSAA.PNG" width=45%>
 
+## Results
+<img src="image/rasterizationMSAA.gif" width=60%>
 ## Acknowledgements
 The framework is derived from ZeusYang's [TinySoftRenderer](https://github.com/ZeusYang/TinySoftRenderer/tree/master).

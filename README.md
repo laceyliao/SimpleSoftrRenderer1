@@ -26,7 +26,7 @@ before:                                                                         
 <img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/images/noculledfaces.PNG" width=45%>  <img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/images/culledfaces.PNG" width=45%>  
 
 ## Triangle filling based on Edge-function with 4$\times$MSAA
-<img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/imagesrasterizeMSAA.PNG" width=45%>
+<img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/images/rasterizeMSAA.PNG" width=45%>
 
 ## Results
 <img src="images/rasterizationMSAA.gif" width=60%>

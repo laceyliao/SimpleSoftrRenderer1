@@ -29,6 +29,7 @@ before:                                                                         
 <img src="https://github.com/laceyliao/SimpleSoftrRenderer_Rasterization/tree/master/imagesrasterizeMSAA.PNG" width=45%>
 
 ## Results
-<img src="image/rasterizationMSAA.gif" width=60%>
+<img src="images/rasterizationMSAA.gif" width=60%>
+
 ## Acknowledgements
 The framework is derived from ZeusYang's [TinySoftRenderer](https://github.com/ZeusYang/TinySoftRenderer/tree/master).
